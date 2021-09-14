@@ -1,6 +1,8 @@
----
-title: Test
----
-
-
-Hello World
+<HTML>
+<TITLE>
+Test
+</TITLE>
+<BODY>
+Hello world
+</BODY>
+</HTML>
